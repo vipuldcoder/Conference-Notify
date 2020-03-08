@@ -6,6 +6,9 @@ It's the service responsible for scrapping information about conferences and put
 *   Any MongoDB installation (ATLAS / Local)
 *   Python 3.6+
 
+## Datamodel Schema
+*   
+
 ## Python packages required
 * pymongo driver
 * Beautiful Soup
