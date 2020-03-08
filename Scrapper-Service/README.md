@@ -7,7 +7,8 @@ It's the service responsible for scrapping information about conferences and put
 *   Python 3.6+
 
 ## Datamodel Schema
-*   
+*   ![Datamodel Schema](images/RDBMS_MongoDB_Mapping.jpg)
+
 
 ## Python packages required
 * pymongo driver
